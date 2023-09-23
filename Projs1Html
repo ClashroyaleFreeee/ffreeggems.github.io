@@ -1,0 +1,12 @@
+<html lang="ru" >
+	<head>
+		<title> Бесплатные гемы на Клеш Рояль! </title>
+		<meta name = "Захотелось много алмазов и легендарок в клеш рояль? Заходи сюда!"
+		content = "Clash Royale, Gems, Free">
+	</head>
+	<body>
+		<h1>   Нажми на кнопку накрутки для того что бы получить бесплатные гемы!   </h1>
+		<button onclick="window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';">НАКРУТИТЬ</button>
+		<p>  Не получается накрутить? Ну ты и <d> лох </d> </p>
+	</body>
+</html>
